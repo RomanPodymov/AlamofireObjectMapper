@@ -1,2 +1,2 @@
-github "Alamofire/Alamofire" "5.6.4"
-github "tristanhimmelman/ObjectMapper" ~> 4.2.0 
+github "Alamofire/Alamofire" "5.11.1"
+github "tristanhimmelman/ObjectMapper" ~> 4.4.3 
